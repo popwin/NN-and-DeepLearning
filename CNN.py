@@ -218,7 +218,7 @@ def main(path,alpha=0.01,epochs=200,
 
 # In[53]:
 
-main("/home/pop/Downloads/mnist.pkl.gz")
+main("Downloads/mnist.pkl.gz")
 
 
 # In[28]:
