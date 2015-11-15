@@ -29,7 +29,7 @@ from theano.tensor.signal import downsample
 # In[21]:
 
 import sys
-sys.path.append(r"/home/pop/Documents/GithubPW/NN-and-DeepLearning/MLP/")
+sys.path.append(r"xxx")
 
 
 # In[22]:
